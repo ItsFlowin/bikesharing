@@ -18,4 +18,14 @@ This is an analysis of the bikesharing company New York Citibike using data visu
  - Approximately 65% of riders were male, 25% were female, and 10% were unknown.
  - Most of the rides were initiated in touristy areas and in downtown manhattan 
  
- <img src="">
+ <img src="https://github.com/ItsFlowin/pics/blob/main/Trips%20by%20Weekday%20per%20hour.png">
+ 
+ <img src="https://github.com/ItsFlowin/pics/blob/main/Checkout%20times%20for%20Users.png">
+ 
+ <img src="https://github.com/ItsFlowin/pics/blob/main/Checkout%20times%20by%20Gender.png">
+ 
+ <img src="https://github.com/ItsFlowin/pics/blob/main/Trips%20by%20Gender%20by%20Weekday.png">
+
+<img src="https://github.com/ItsFlowin/pics/blob/main/Trips%20by%20Gender.png">
+
+<img src="https://github.com/ItsFlowin/pics/blob/main/August%20Peak%20Hours.png">
