@@ -32,7 +32,11 @@ This is an analysis of the bikesharing company New York Citibike using data visu
  - The rental times for the service follow the same pattern for all genders.
  
  <img src="https://github.com/ItsFlowin/pics/blob/main/Trips%20by%20Gender%20by%20Weekday.png">
+ 
+ - Subscribers use the service 10 times more than regular customers.
+ - The most rentals are done by subscribers on Monday, Tuesdays, Thursdays, and Fridays.
 
 <img src="https://github.com/ItsFlowin/pics/blob/main/Trips%20by%20Gender.png">
 
+- 
 <img src="https://github.com/ItsFlowin/pics/blob/main/August%20Peak%20Hours.png">
