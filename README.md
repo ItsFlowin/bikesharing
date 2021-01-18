@@ -24,9 +24,11 @@ This is an analysis of the bikesharing company New York Citibike using data visu
  
  <img src="https://github.com/ItsFlowin/pics/blob/main/Checkout%20times%20for%20Users.png">
  
- - Males are the dominant users of the service with around 3 times the rides of other users.
+ - As seen from the chart above the bikes are typically checked out for an average of 4 to 6 hours.
  
  <img src="https://github.com/ItsFlowin/pics/blob/main/Checkout%20times%20by%20Gender.png">
+ 
+ - Males are the dominant users of the service with around 3 times the rides of other users.
  
  <img src="https://github.com/ItsFlowin/pics/blob/main/Trips%20by%20Gender%20by%20Weekday.png">
 
