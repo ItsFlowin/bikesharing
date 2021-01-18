@@ -20,7 +20,11 @@ This is an analysis of the bikesharing company New York Citibike using data visu
  
  <img src="https://github.com/ItsFlowin/pics/blob/main/Trips%20by%20Weekday%20per%20hour.png">
  
+ - The busiest times for the service are on Monday, Tuesdays, and Thursdays from 5 to 7 PM where Citibike averages around 40,000 riders.
+ 
  <img src="https://github.com/ItsFlowin/pics/blob/main/Checkout%20times%20for%20Users.png">
+ 
+ - Males are the dominant users of the service with around 3 times the rides of other users.
  
  <img src="https://github.com/ItsFlowin/pics/blob/main/Checkout%20times%20by%20Gender.png">
  
