@@ -29,6 +29,7 @@ This is an analysis of the bikesharing company New York Citibike using data visu
  <img src="https://github.com/ItsFlowin/pics/blob/main/Checkout%20times%20by%20Gender.png">
  
  - Males are the dominant users of the service with around 3 times the rides of other users.
+ - The rental times for the service follow the same pattern for all genders.
  
  <img src="https://github.com/ItsFlowin/pics/blob/main/Trips%20by%20Gender%20by%20Weekday.png">
 
