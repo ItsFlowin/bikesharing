@@ -38,5 +38,9 @@ This is an analysis of the bikesharing company New York Citibike using data visu
 
 <img src="https://github.com/ItsFlowin/pics/blob/main/Trips%20by%20Gender.png">
 
-- 
+- Most rides on the weekdays are done around 7-9 AM and 5-7 PM.
+- Weekend rides are the highest from 12 to 4 PM in the afternoon.
+
 <img src="https://github.com/ItsFlowin/pics/blob/main/August%20Peak%20Hours.png">
+
+- As seen from above the service is least used int he early morning hours of 2 - 4 AM so this would be the time that maintenance would be performed on the bicycles.
